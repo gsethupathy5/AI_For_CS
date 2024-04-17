@@ -1,0 +1,17 @@
+input:
+"84532"
+"34852"
+output:
+true
+
+input:
+"34521"
+"23415"
+output:
+true
+
+input:
+"12345"
+"12435"
+output:
+false

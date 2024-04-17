@@ -1,0 +1,11 @@
+input:
+"abc"
+"ababc"
+output:
+[0,2]
+
+input:
+"abca"
+"aabcaca"
+output:
+[3,0,1]

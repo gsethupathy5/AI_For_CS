@@ -1,0 +1,17 @@
+input:
+"aaabcccd"
+2
+output:
+4
+
+input:
+"aabbaa"
+2
+output:
+2
+
+input:
+"aaaaaaaaaaa"
+0
+output:
+3

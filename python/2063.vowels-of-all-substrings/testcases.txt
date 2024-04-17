@@ -1,0 +1,14 @@
+input:
+"aba"
+output:
+6
+
+input:
+"abc"
+output:
+3
+
+input:
+"ltcd"
+output:
+0

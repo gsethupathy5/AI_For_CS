@@ -1,0 +1,9 @@
+input:
+"abacbc"
+output:
+true
+
+input:
+"aaabb"
+output:
+false

@@ -1,0 +1,9 @@
+input:
+"dfa12321afd"
+output:
+2
+
+input:
+"abc1111"
+output:
+-1

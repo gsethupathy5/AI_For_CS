@@ -1,0 +1,14 @@
+input:
+"l|*e*et|c**o|*de|"
+output:
+2
+
+input:
+"iamprogrammer"
+output:
+0
+
+input:
+"yo|uar|e**|b|e***au|tifu|l"
+output:
+5

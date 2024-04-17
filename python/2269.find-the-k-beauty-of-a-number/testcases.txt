@@ -1,0 +1,11 @@
+input:
+240
+2
+output:
+2
+
+input:
+430043
+2
+output:
+2

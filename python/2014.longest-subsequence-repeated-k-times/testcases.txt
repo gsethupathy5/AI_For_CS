@@ -1,0 +1,17 @@
+input:
+"letsleetcode"
+2
+output:
+"let"
+
+input:
+"bb"
+2
+output:
+"b"
+
+input:
+"ab"
+2
+output:
+""

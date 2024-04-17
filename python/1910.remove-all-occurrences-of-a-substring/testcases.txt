@@ -1,0 +1,11 @@
+input:
+"daabcbaabcbc"
+"abc"
+output:
+"dab"
+
+input:
+"axxxxyyyyb"
+"xy"
+output:
+"ab"

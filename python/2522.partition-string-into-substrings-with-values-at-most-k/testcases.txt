@@ -1,0 +1,11 @@
+input:
+"165462"
+60
+output:
+4
+
+input:
+"238182"
+5
+output:
+-1

@@ -1,0 +1,9 @@
+input:
+"CAKE"
+output:
+3
+
+input:
+"HAPPY"
+output:
+6

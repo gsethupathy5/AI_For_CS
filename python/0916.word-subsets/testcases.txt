@@ -1,0 +1,11 @@
+input:
+["amazon","apple","facebook","google","leetcode"]
+["e","o"]
+output:
+["facebook","google","leetcode"]
+
+input:
+["amazon","apple","facebook","google","leetcode"]
+["l","e"]
+output:
+["apple","google","leetcode"]

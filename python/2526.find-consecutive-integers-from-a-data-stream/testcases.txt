@@ -1,0 +1,5 @@
+input:
+["DataStream","consec","consec","consec","consec"]
+[[4,3],[4],[4],[4],[3]]
+output:
+[null, false, false, true, false]

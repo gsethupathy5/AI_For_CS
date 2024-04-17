@@ -1,0 +1,11 @@
+input:
+"cba"
+1
+output:
+"acb"
+
+input:
+"baaca"
+3
+output:
+"aaabc"

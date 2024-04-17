@@ -1,0 +1,17 @@
+input:
+"ac"
+"b"
+output:
+false
+
+input:
+"abcc"
+"aab"
+output:
+true
+
+input:
+"abcde"
+"fghij"
+output:
+true

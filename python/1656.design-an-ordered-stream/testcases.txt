@@ -1,0 +1,5 @@
+input:
+["OrderedStream","insert","insert","insert","insert","insert"]
+[[5],[3,"ccccc"],[1,"aaaaa"],[2,"bbbbb"],[5,"eeeee"],[4,"ddddd"]]
+output:
+[null, [], ["aaaaa"], ["bbbbb", "ccccc"], [], ["ddddd", "eeeee"]]

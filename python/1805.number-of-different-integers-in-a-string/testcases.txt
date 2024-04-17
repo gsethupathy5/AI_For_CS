@@ -1,0 +1,14 @@
+input:
+"a123bc34d8ef34"
+output:
+3
+
+input:
+"leet1234code234"
+output:
+2
+
+input:
+"a1b01c001"
+output:
+1

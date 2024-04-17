@@ -1,0 +1,14 @@
+input:
+[["leetcode","google","facebook"],["google","microsoft"],["google","facebook"],["google"],["amazon"]]
+output:
+[0,1,4]
+
+input:
+[["leetcode","google","facebook"],["leetcode","amazon"],["facebook","google"]]
+output:
+[0,1]
+
+input:
+[["leetcode"],["google"],["facebook"],["amazon"]]
+output:
+[0,1,2,3]

@@ -1,0 +1,9 @@
+input:
+["time","me","bell"]
+output:
+10
+
+input:
+["t"]
+output:
+2

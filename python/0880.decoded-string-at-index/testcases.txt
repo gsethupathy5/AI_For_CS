@@ -1,0 +1,17 @@
+input:
+"leet2code3"
+10
+output:
+"o"
+
+input:
+"ha22"
+5
+output:
+"h"
+
+input:
+"a2345678999999999999999"
+1
+output:
+"a"

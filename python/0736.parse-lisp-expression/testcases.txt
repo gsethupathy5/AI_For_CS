@@ -1,0 +1,14 @@
+input:
+"(let x 2 (mult x (let x 3 y 4 (add x y))))"
+output:
+14
+
+input:
+"(let x 3 x 2 x)"
+output:
+2
+
+input:
+"(let x 1 y 2 x (add x y) (add x y))"
+output:
+5

@@ -1,0 +1,11 @@
+input:
+"BCD"
+["BCC","CDE","CEA","FFF"]
+output:
+true
+
+input:
+"AAAA"
+["AAB","AAC","BCD","BBE","DEF"]
+output:
+false

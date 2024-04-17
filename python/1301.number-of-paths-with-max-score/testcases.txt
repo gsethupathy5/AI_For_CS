@@ -1,0 +1,14 @@
+input:
+["E23","2X2","12S"]
+output:
+[7,1]
+
+input:
+["E12","1X1","21S"]
+output:
+[4,2]
+
+input:
+["E11","XXX","11S"]
+output:
+[0,0]

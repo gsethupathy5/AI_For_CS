@@ -1,0 +1,5 @@
+input:
+["Solution","flip","flip","flip","reset","flip"]
+[[3,1],[],[],[],[],[]]
+output:
+[null, [1, 0], [2, 0], [0, 0], null, [2, 0]]

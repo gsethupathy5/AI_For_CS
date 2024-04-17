@@ -1,0 +1,14 @@
+input:
+["babca","bbazb"]
+output:
+3
+
+input:
+["edcba"]
+output:
+4
+
+input:
+["ghi","def","abc"]
+output:
+0

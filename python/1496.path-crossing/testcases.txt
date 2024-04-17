@@ -1,0 +1,9 @@
+input:
+"NES"
+output:
+false
+
+input:
+"NESWW"
+output:
+true

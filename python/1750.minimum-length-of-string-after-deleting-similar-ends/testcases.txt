@@ -1,0 +1,14 @@
+input:
+"ca"
+output:
+2
+
+input:
+"cabaabac"
+output:
+0
+
+input:
+"aabccabba"
+output:
+3

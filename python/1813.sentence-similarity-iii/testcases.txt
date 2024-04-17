@@ -1,0 +1,17 @@
+input:
+"My name is Haley"
+"My Haley"
+output:
+true
+
+input:
+"of"
+"A lot of words"
+output:
+false
+
+input:
+"Eating right now"
+"Eating"
+output:
+true

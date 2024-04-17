@@ -1,0 +1,13 @@
+input:
+"abcdefghi"
+3
+"x"
+output:
+["abc","def","ghi"]
+
+input:
+"abcdefghij"
+3
+"x"
+output:
+["abc","def","ghi","jxx"]

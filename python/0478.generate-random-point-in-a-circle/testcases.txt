@@ -1,0 +1,5 @@
+input:
+["Solution","randPoint","randPoint","randPoint"]
+[[1.0,0.0,0.0],[],[],[]]
+output:
+[null, [-0.02493, -0.38077], [0.82314, 0.38945], [0.36572, 0.17248]]

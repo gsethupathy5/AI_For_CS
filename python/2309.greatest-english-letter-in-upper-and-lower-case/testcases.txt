@@ -1,0 +1,14 @@
+input:
+"lEeTcOdE"
+output:
+"E"
+
+input:
+"arRAzFif"
+output:
+"R"
+
+input:
+"AbCdEfGhIjK"
+output:
+""

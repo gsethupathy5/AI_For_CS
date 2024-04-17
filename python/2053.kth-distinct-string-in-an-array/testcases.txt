@@ -1,0 +1,17 @@
+input:
+["d","b","c","b","c","a"]
+2
+output:
+"a"
+
+input:
+["aaa","aa","a"]
+1
+output:
+"aaa"
+
+input:
+["a","b","a"]
+3
+output:
+""

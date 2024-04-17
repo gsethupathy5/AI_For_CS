@@ -1,0 +1,11 @@
+input:
+"RXXLRXRXL"
+"XRLXXRRLX"
+output:
+true
+
+input:
+"X"
+"L"
+output:
+false

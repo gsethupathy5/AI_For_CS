@@ -1,0 +1,14 @@
+input:
+"IloveLe3tcode!"
+output:
+true
+
+input:
+"Me+You--IsMyDream"
+output:
+false
+
+input:
+"1aB!"
+output:
+false

@@ -1,0 +1,5 @@
+input:
+["CBTInserter","insert","insert","get_root"]
+[[[1,2]],[3],[4],[]]
+output:
+[null, 1, 2, [1, 2, 3, 4]]

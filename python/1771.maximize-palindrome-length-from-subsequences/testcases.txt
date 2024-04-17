@@ -1,0 +1,17 @@
+input:
+"cacb"
+"cbba"
+output:
+5
+
+input:
+"ab"
+"ab"
+output:
+3
+
+input:
+"aa"
+"bb"
+output:
+0

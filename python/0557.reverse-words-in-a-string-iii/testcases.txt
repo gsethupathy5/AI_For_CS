@@ -1,0 +1,9 @@
+input:
+"Let's take LeetCode contest"
+output:
+"s'teL ekat edoCteeL tsetnoc"
+
+input:
+"Mr Ding"
+output:
+"rM gniD"

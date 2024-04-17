@@ -1,0 +1,14 @@
+input:
+["ABC","ACB","ABC","ACB","ACB"]
+output:
+"ACB"
+
+input:
+["WXYZ","XYZW"]
+output:
+"XWYZ"
+
+input:
+["ZMNAGUEDSJYLBOPHRQICWFXTVK"]
+output:
+"ZMNAGUEDSJYLBOPHRQICWFXTVK"

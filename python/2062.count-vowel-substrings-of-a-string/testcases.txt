@@ -1,0 +1,14 @@
+input:
+"aeiouu"
+output:
+2
+
+input:
+"unicornarihan"
+output:
+0
+
+input:
+"cuaieuouac"
+output:
+7

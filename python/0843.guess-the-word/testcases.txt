@@ -1,0 +1,13 @@
+input:
+"acckzz"
+["acckzz","ccbazz","eiowzz","abcczz"]
+10
+output:
+You guessed the secret word correctly.
+
+input:
+"hamada"
+["hamada","khaled"]
+10
+output:
+You guessed the secret word correctly.

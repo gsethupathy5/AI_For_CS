@@ -1,0 +1,14 @@
+input:
+"abc"
+output:
+5
+
+input:
+"bza"
+output:
+7
+
+input:
+"zjpc"
+output:
+34

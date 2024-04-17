@@ -1,0 +1,17 @@
+input:
+[2,3]
+1
+output:
+"HHHVV"
+
+input:
+[2,3]
+2
+output:
+"HHVHV"
+
+input:
+[2,3]
+3
+output:
+"HHVVH"

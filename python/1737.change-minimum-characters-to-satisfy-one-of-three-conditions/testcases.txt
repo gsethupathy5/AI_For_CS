@@ -1,0 +1,11 @@
+input:
+"aba"
+"caa"
+output:
+2
+
+input:
+"dabadd"
+"cda"
+output:
+3

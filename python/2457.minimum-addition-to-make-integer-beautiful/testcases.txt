@@ -1,0 +1,17 @@
+input:
+16
+6
+output:
+4
+
+input:
+467
+6
+output:
+33
+
+input:
+1
+1
+output:
+0

@@ -1,0 +1,9 @@
+input:
+100
+output:
+"202"
+
+input:
+-7
+output:
+"-10"

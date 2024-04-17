@@ -1,0 +1,9 @@
+input:
+[0,1,1]
+output:
+[true,false,false]
+
+input:
+[1,1,1]
+output:
+[false,false,false]

@@ -1,0 +1,11 @@
+input:
+["with","example","science"]
+"thehat"
+output:
+3
+
+input:
+["notice","possible"]
+"basicbasic"
+output:
+-1Explanation:We cannot form the target "basicbasic" from cutting letters from the given stickers.

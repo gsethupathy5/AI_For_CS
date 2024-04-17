@@ -1,0 +1,9 @@
+input:
+["tars","rats","arts","star"]
+output:
+2
+
+input:
+["omv","ovm"]
+output:
+1

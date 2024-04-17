@@ -1,0 +1,9 @@
+input:
+"aaaabbbbcccc"
+output:
+"abccbaabccba"
+
+input:
+"rat"
+output:
+"art"

@@ -1,0 +1,14 @@
+input:
+"1101"
+output:
+true
+
+input:
+"111000"
+output:
+false
+
+input:
+"110100010"
+output:
+false

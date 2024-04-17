@@ -1,0 +1,17 @@
+input:
+"aaaa"
+"bccb"
+output:
+false
+
+input:
+"abcdeef"
+"abaaacc"
+output:
+true
+
+input:
+"cccddabba"
+"babababab"
+output:
+true

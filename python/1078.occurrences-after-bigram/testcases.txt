@@ -1,0 +1,13 @@
+input:
+"alice is a good girl she is a good student"
+"a"
+"good"
+output:
+["girl","student"]
+
+input:
+"we will we will rock you"
+"we"
+"will"
+output:
+["we","rock"]

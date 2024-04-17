@@ -1,0 +1,14 @@
+input:
+"H..H"
+output:
+2
+
+input:
+".H.H."
+output:
+1
+
+input:
+".HHH."
+output:
+-1

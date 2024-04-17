@@ -1,0 +1,14 @@
+input:
+"YazaAay"
+output:
+"aAa"
+
+input:
+"Bb"
+output:
+"Bb"
+
+input:
+"c"
+output:
+""

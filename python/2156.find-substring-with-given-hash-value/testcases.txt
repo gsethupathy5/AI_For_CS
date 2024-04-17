@@ -1,0 +1,17 @@
+input:
+"leetcode"
+7
+20
+2
+0
+output:
+"ee"
+
+input:
+"fbxzaad"
+31
+100
+3
+32
+output:
+"fbx"

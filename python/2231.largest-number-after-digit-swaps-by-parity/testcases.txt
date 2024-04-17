@@ -1,0 +1,9 @@
+input:
+1234
+output:
+3412
+
+input:
+65875
+output:
+87655

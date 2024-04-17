@@ -1,0 +1,9 @@
+input:
+"cba"
+output:
+5
+
+input:
+"aabaa"
+output:
+2

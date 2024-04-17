@@ -1,0 +1,9 @@
+input:
+"abbca"
+output:
+28
+
+input:
+"code"
+output:
+20

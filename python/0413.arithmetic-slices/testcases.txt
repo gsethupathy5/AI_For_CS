@@ -1,0 +1,9 @@
+input:
+[1,2,3,4]
+output:
+3
+
+input:
+[1]
+output:
+0

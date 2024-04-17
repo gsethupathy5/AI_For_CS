@@ -1,0 +1,14 @@
+input:
+"1234"
+output:
+false
+
+input:
+"050043"
+output:
+true
+
+input:
+"9080701"
+output:
+false

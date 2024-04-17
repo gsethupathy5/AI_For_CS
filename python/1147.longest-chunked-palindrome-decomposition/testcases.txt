@@ -1,0 +1,14 @@
+input:
+"ghiabcdefhelloadamhelloabcdefghi"
+output:
+7
+
+input:
+"merchant"
+output:
+1
+
+input:
+"antaprezatepzapreanta"
+output:
+11

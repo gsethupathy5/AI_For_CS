@@ -1,0 +1,14 @@
+input:
+"leetcodecom"
+output:
+9
+
+input:
+"bb"
+output:
+1
+
+input:
+"accbcaxxcxx"
+output:
+25

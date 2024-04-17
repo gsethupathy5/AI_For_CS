@@ -1,0 +1,14 @@
+input:
+"a1"
+output:
+false
+
+input:
+"h3"
+output:
+true
+
+input:
+"c7"
+output:
+false

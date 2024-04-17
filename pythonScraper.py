@@ -24,7 +24,7 @@ def run_pick(csv_file_path):
             execute_command(pick_command)
 
 def main():
-    csv_file_path = 'first20.csv'
+    csv_file_path = 'answers_python2024.csv'
     # python_file_path = 'python/your_python_file.py'
 
     run_pick(csv_file_path)

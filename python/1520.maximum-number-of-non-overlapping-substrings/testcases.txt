@@ -1,0 +1,9 @@
+input:
+"adefaddaccc"
+output:
+["e","f","ccc"]
+
+input:
+"abbaccd"
+output:
+["d","bb","cc"]

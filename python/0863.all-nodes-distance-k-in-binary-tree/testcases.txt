@@ -1,0 +1,13 @@
+input:
+[3,5,1,6,2,0,8,null,null,7,4]
+5
+2
+output:
+[7,4,1]Explanation: The nodes that are a distance 2 from the target node (with value 5) have values 7, 4, and 1.
+
+input:
+[1]
+1
+3
+output:
+[]

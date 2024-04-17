@@ -1,0 +1,14 @@
+input:
+8
+output:
+[3,3]
+
+input:
+123
+output:
+[5,25]
+
+input:
+999
+output:
+[40,25]

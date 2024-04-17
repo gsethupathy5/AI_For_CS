@@ -1,0 +1,14 @@
+input:
+"5023"
+output:
+false
+
+input:
+"25??"
+output:
+true
+
+input:
+"?3295???"
+output:
+false

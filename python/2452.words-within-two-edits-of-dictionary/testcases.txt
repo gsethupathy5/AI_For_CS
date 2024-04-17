@@ -1,0 +1,11 @@
+input:
+["word","note","ants","wood"]
+["wood","joke","moat"]
+output:
+["word","note","wood"]
+
+input:
+["yes"]
+["not"]
+output:
+[]

@@ -1,0 +1,17 @@
+input:
+1
+4
+output:
+"24e0"
+
+input:
+2
+11
+output:
+"399168e2"
+
+input:
+371
+375
+output:
+"7219856259e3"

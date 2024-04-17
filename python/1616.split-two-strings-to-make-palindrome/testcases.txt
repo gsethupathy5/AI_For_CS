@@ -1,0 +1,17 @@
+input:
+"x"
+"y"
+output:
+true
+
+input:
+"xbdef"
+"xecab"
+output:
+false
+
+input:
+"ulacfd"
+"jizalu"
+output:
+true

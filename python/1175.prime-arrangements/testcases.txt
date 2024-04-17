@@ -1,0 +1,9 @@
+input:
+5
+output:
+12
+
+input:
+100
+output:
+682289015

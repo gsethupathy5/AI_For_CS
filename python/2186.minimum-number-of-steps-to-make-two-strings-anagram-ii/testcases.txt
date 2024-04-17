@@ -1,0 +1,11 @@
+input:
+"leetcode"
+"coats"
+output:
+7
+
+input:
+"night"
+"thing"
+output:
+0

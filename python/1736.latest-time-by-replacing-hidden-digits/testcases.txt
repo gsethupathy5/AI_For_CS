@@ -1,0 +1,14 @@
+input:
+"2?:?0"
+output:
+"23:50"
+
+input:
+"0?:3?"
+output:
+"09:39"
+
+input:
+"1?:22"
+output:
+"19:22"

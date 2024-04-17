@@ -1,0 +1,14 @@
+input:
+"ababa"
+output:
+1
+
+input:
+"abb"
+output:
+2
+
+input:
+"baabb"
+output:
+2

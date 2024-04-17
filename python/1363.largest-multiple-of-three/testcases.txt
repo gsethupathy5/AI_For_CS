@@ -1,0 +1,14 @@
+input:
+[8,1,9]
+output:
+"981"
+
+input:
+[8,6,7,1,0]
+output:
+"8760"
+
+input:
+[1]
+output:
+""

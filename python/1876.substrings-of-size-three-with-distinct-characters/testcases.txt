@@ -1,0 +1,9 @@
+input:
+"xyzzaz"
+output:
+1
+
+input:
+"aababcabc"
+output:
+4

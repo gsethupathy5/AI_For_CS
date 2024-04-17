@@ -1,0 +1,14 @@
+input:
+[["a","a","a","a"],["a","b","b","a"],["a","b","b","a"],["a","a","a","a"]]
+output:
+true
+
+input:
+[["c","c","c","a"],["c","d","c","c"],["c","c","e","c"],["f","c","c","c"]]
+output:
+true
+
+input:
+[["a","b","b"],["b","z","b"],["b","b","a"]]
+output:
+false

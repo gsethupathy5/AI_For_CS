@@ -1,0 +1,14 @@
+input:
+"327"
+output:
+2
+
+input:
+"094"
+output:
+0
+
+input:
+"0"
+output:
+0

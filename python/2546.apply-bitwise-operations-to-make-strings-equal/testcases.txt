@@ -1,0 +1,11 @@
+input:
+"1010"
+"0110"
+output:
+true
+
+input:
+"11"
+"00"
+output:
+false

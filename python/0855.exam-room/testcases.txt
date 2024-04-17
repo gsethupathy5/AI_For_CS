@@ -1,0 +1,5 @@
+input:
+["ExamRoom","seat","seat","seat","seat","leave","seat"]
+[[10],[],[],[],[],[4],[]]
+output:
+[null, 0, 9, 4, 2, null, 5]

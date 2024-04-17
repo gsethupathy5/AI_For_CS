@@ -1,0 +1,11 @@
+input:
+"99"
+9
+output:
+"999"
+
+input:
+"-13"
+2
+output:
+"-123"

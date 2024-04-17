@@ -1,0 +1,17 @@
+input:
+[100]
+50
+output:
+
+
+input:
+[200,100]
+150
+output:
+
+
+input:
+[100,200,300,400]
+200
+output:
+

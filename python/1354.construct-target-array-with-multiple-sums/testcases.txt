@@ -1,0 +1,14 @@
+input:
+[9,3,5]
+output:
+true
+
+input:
+[1,1,1,2]
+output:
+false
+
+input:
+[8,5]
+output:
+true

@@ -1,0 +1,14 @@
+input:
+["un","iq","ue"]
+output:
+4
+
+input:
+["cha","r","act","ers"]
+output:
+6
+
+input:
+["abcdefghijklmnopqrstuvwxyz"]
+output:
+26

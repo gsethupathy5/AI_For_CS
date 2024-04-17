@@ -1,0 +1,14 @@
+input:
+["@.a..","###.#","b.A.B"]
+output:
+8
+
+input:
+["@..aA","..B#.","....b"]
+output:
+6
+
+input:
+["@Aa"]
+output:
+-1

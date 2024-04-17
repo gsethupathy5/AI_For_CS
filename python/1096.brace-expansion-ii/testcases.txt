@@ -1,0 +1,9 @@
+input:
+"{a,b}{c,{d,e}}"
+output:
+["ac","ad","ae","bc","bd","be"]
+
+input:
+"{{a,z},a{b,c},{ab,z}}"
+output:
+["a","ab","ac","z"]

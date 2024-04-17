@@ -1,0 +1,9 @@
+input:
+"Hello, my name is John"
+output:
+5
+
+input:
+"Hello"
+output:
+1

@@ -1,0 +1,9 @@
+input:
+33
+output:
+[10,11,12]
+
+input:
+4
+output:
+[]

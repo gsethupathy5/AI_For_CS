@@ -1,0 +1,17 @@
+input:
+"ababc"
+"ab"
+output:
+2
+
+input:
+"ababc"
+"ba"
+output:
+1
+
+input:
+"ababc"
+"ac"
+output:
+0

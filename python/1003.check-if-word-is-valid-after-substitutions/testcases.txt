@@ -1,0 +1,14 @@
+input:
+"aabcbc"
+output:
+true
+
+input:
+"abcabcababcc"
+output:
+true
+
+input:
+"abccba"
+output:
+false

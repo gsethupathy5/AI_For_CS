@@ -1,0 +1,17 @@
+input:
+"internationalization"
+"i18n"
+output:
+true
+
+input:
+"l123e"
+"44"
+output:
+true
+
+input:
+"a5b"
+"c5b"
+output:
+false

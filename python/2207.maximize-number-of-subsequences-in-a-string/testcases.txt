@@ -1,0 +1,11 @@
+input:
+"abdcdbc"
+"ac"
+output:
+4
+
+input:
+"aabb"
+"ab"
+output:
+6

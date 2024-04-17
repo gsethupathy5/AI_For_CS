@@ -1,0 +1,9 @@
+input:
+"1210"
+output:
+true
+
+input:
+"030"
+output:
+false

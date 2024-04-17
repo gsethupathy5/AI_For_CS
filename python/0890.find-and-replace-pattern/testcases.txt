@@ -1,0 +1,11 @@
+input:
+["abc","deq","mee","aqq","dkd","ccc"]
+"abb"
+output:
+["mee","aqq"]
+
+input:
+["a","b","c"]
+"a"
+output:
+["a","b","c"]

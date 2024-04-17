@@ -1,0 +1,14 @@
+input:
+"croakcroak"
+output:
+1
+
+input:
+"crcoakroak"
+output:
+2
+
+input:
+"croakcrook"
+output:
+-1

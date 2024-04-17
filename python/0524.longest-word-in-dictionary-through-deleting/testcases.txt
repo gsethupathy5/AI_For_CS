@@ -1,0 +1,11 @@
+input:
+"abpcplea"
+["ale","apple","monkey","plea"]
+output:
+"apple"
+
+input:
+"abpcplea"
+["a","b","c"]
+output:
+"a"

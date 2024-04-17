@@ -1,0 +1,14 @@
+input:
+"AAABABB"
+output:
+true
+
+input:
+"AA"
+output:
+false
+
+input:
+"ABBBBBBBAAA"
+output:
+false

@@ -1,0 +1,17 @@
+input:
+"WRRBBW"
+"RB"
+output:
+-1
+
+input:
+"WWRRBBWW"
+"WRBRW"
+output:
+2
+
+input:
+"G"
+"GGGGG"
+output:
+2

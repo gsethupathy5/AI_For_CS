@@ -1,0 +1,21 @@
+# Created by asetti2002 at 2024/04/17 02:07
+# leetgo: 1.4.3
+# https://leetcode.com/problems/process-restricted-friend-requests/
+
+from typing import *
+from leetgo_py import *
+
+# @lc code=begin
+
+class Solution:
+    def friendRequests(self, n: int, restrictions: List[List[int]], requests: List[List[int]]) -> List[bool]:
+        
+
+# @lc code=end
+
+if __name__ == "__main__":
+    n: int = deserialize("int", read_line())
+    restrictions: List[List[int]] = deserialize("List[List[int]]", read_line())
+    requests: List[List[int]] = deserialize("List[List[int]]", read_line())
+    ans = Solution().friendRequests(n, restrictions, requests)
+    print("\noutput:", serialize(ans, "boolean[]"))
