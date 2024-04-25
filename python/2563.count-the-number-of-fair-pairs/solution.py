@@ -1,4 +1,4 @@
-# Created by asetti2002 at 2024/04/17 02:04
+# Created by asetti2002 at 2024/04/18 18:06
 # leetgo: 1.4.3
 # https://leetcode.com/problems/count-the-number-of-fair-pairs/
 
