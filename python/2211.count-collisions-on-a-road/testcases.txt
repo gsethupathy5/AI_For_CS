@@ -1,9 +1,0 @@
-input:
-"RLRSLL"
-output:
-5
-
-input:
-"LLRR"
-output:
-0

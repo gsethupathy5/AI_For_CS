@@ -1,9 +1,0 @@
-input:
-"babad"
-output:
-"bab"
-
-input:
-"cbbd"
-output:
-"bb"

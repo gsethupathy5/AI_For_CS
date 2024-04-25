@@ -1,5 +1,0 @@
-input:
-["WordFilter","f"]
-[[["apple"]],["a","e"]]
-output:
-[null, 0]

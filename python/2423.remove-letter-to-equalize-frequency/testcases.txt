@@ -1,9 +1,0 @@
-input:
-"abcc"
-output:
-true
-
-input:
-"aazz"
-output:
-false

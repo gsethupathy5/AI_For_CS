@@ -1,9 +1,0 @@
-input:
-"leetcode"
-output:
-2
-
-input:
-"abbcccddddeeeeedcba"
-output:
-5

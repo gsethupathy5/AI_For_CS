@@ -1,9 +1,0 @@
-input:
-"123"
-output:
-"121"
-
-input:
-"1"
-output:
-"0"

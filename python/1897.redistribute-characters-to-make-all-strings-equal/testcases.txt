@@ -1,9 +1,0 @@
-input:
-["abc","aabc","bc"]
-output:
-true
-
-input:
-["ab","a"]
-output:
-false

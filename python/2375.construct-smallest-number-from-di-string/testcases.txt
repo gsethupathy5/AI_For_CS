@@ -1,9 +1,0 @@
-input:
-"IIIDIDDD"
-output:
-"123549876"
-
-input:
-"DDD"
-output:
-"4321"

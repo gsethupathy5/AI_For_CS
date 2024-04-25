@@ -1,9 +1,0 @@
-input:
-"10#11#12"
-output:
-"jkab"
-
-input:
-"1326#"
-output:
-"acz"

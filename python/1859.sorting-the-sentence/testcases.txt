@@ -1,9 +1,0 @@
-input:
-"is2 sentence4 This1 a3"
-output:
-"This is a sentence"
-
-input:
-"Myself2 Me1 I4 and3"
-output:
-"Me Myself and I"

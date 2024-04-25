@@ -1,9 +1,0 @@
-input:
-"abccba"
-output:
-"aaccba"
-
-input:
-"a"
-output:
-""

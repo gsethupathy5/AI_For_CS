@@ -1,9 +1,0 @@
-input:
-"aabb"
-output:
-2
-
-input:
-"letelt"
-output:
-2

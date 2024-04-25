@@ -1,9 +1,0 @@
-input:
-987
-output:
-"987"
-
-input:
-1234
-output:
-"1.234"

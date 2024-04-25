@@ -1,9 +1,0 @@
-input:
-"aacaba"
-output:
-2
-
-input:
-"abcd"
-output:
-1

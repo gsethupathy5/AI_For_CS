@@ -1,9 +1,0 @@
-input:
-[1,2,3]
-output:
-2
-
-input:
-[9,6,1,6,2]
-output:
-4

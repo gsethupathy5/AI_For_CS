@@ -1,9 +1,0 @@
-input:
-[11,7,2,15]
-output:
-2
-
-input:
-[-3,3,3,90]
-output:
-2

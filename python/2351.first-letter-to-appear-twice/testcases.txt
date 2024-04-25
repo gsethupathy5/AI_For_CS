@@ -1,9 +1,0 @@
-input:
-"abccbaacz"
-output:
-"c"
-
-input:
-"abcdd"
-output:
-"d"

@@ -1,9 +1,0 @@
-input:
-"abab"
-output:
-"bab"
-
-input:
-"leetcode"
-output:
-"tcode"

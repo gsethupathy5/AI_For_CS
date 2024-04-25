@@ -1,5 +1,0 @@
-input:
-["CombinationIterator","next","hasNext","next","hasNext","next","hasNext"]
-[["abc",2],[],[],[],[],[],[]]
-output:
-[null, "ab", true, "ac", true, "bc", false]

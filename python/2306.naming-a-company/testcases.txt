@@ -1,9 +1,0 @@
-input:
-["coffee","donuts","time","toffee"]
-output:
-6
-
-input:
-["lack","back"]
-output:
-0

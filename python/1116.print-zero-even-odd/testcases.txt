@@ -1,9 +1,0 @@
-input:
-2
-output:
-"0102"
-
-input:
-5
-output:
-"0102030405"

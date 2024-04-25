@@ -1,9 +1,0 @@
-input:
-["abc","ab","bc","b"]
-output:
-[5,4,3,2]
-
-input:
-["abcd"]
-output:
-[4]

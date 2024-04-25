@@ -1,9 +1,0 @@
-input:
-"babab"
-output:
-9
-
-input:
-"azbazbzaz"
-output:
-14

@@ -1,9 +1,0 @@
-input:
-"aabcb"
-output:
-5
-
-input:
-"aabcbaa"
-output:
-17

@@ -1,9 +1,0 @@
-input:
-"1100101"
-output:
-5
-
-input:
-"0010"
-output:
-2

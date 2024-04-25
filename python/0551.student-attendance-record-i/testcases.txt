@@ -1,9 +1,0 @@
-input:
-"PPALLP"
-output:
-true
-
-input:
-"PPALLL"
-output:
-false

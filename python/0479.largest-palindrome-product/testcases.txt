@@ -1,9 +1,0 @@
-input:
-2
-output:
-987Explanation: 99 x 91 = 9009, 9009 % 1337 = 987
-
-input:
-1
-output:
-9

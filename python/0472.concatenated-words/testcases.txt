@@ -1,9 +1,0 @@
-input:
-["cat","cats","catsdogcats","dog","dogcatsdog","hippopotamuses","rat","ratcatdogcat"]
-output:
-["catsdogcats","dogcatsdog","ratcatdogcat"]
-
-input:
-["cat","dog","catdog"]
-output:
-["catdog"]

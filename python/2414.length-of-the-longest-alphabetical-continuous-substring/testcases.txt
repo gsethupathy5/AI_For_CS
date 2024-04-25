@@ -1,9 +1,0 @@
-input:
-"abacaba"
-output:
-2
-
-input:
-"abcde"
-output:
-5

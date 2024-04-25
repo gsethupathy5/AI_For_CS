@@ -1,9 +1,0 @@
-input:
-"HOH"
-output:
-"HHO"
-
-input:
-"OOHHHH"
-output:
-"HHOHHO"

@@ -1,9 +1,0 @@
-input:
-"book"
-output:
-true
-
-input:
-"textbook"
-output:
-false

@@ -1,9 +1,0 @@
-input:
-[1,5,2]
-output:
-false
-
-input:
-[1,5,233,7]
-output:
-true

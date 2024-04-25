@@ -1,9 +1,0 @@
-input:
-"a1c1e1"
-output:
-"abcdef"
-
-input:
-"a1b2c3d4e"
-output:
-"abbdcfdhe"

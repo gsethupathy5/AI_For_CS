@@ -1,9 +1,0 @@
-input:
-3
-output:
-2
-
-input:
-6
-output:
-5

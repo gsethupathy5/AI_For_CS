@@ -1,9 +1,0 @@
-input:
-["a","b","ab","cde"]
-output:
-[2,3]
-
-input:
-["a","ab","abc"]
-output:
-[1,3]

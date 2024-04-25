@@ -1,9 +1,0 @@
-input:
-"abcbdd"
-output:
-true
-
-input:
-"bcbddxy"
-output:
-false

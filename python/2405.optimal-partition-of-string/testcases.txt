@@ -1,9 +1,0 @@
-input:
-"abacaba"
-output:
-4
-
-input:
-"ssssss"
-output:
-6

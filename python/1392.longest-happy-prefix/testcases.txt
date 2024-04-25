@@ -1,9 +1,0 @@
-input:
-"level"
-output:
-"l"
-
-input:
-"ababab"
-output:
-"abab"

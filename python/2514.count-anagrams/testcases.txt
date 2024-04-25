@@ -1,9 +1,0 @@
-input:
-"too hot"
-output:
-18
-
-input:
-"aa"
-output:
-1
