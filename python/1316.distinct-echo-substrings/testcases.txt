@@ -1,0 +1,9 @@
+input:
+"abcabcabc"
+output:
+3
+
+input:
+"leetcodeleetcode"
+output:
+2

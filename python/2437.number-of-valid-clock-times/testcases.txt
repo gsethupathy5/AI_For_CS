@@ -1,0 +1,14 @@
+input:
+"?5:00"
+output:
+2
+
+input:
+"0?:0?"
+output:
+100
+
+input:
+"??:??"
+output:
+1440

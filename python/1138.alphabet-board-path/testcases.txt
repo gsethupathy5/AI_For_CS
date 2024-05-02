@@ -1,0 +1,14 @@
+input:
+"leet"
+output:
+"DDR!UURRR!!DDD!"
+
+input:
+"code"
+output:
+"RR!DDRR!UUL!R!"
+
+input:
+"zb"
+output:
+"DDDDD!UUUUUR!"

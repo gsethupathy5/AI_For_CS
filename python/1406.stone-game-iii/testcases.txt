@@ -1,0 +1,14 @@
+input:
+[1,2,3,7]
+output:
+"Bob"
+
+input:
+[1,2,3,-9]
+output:
+"Alice"
+
+input:
+[1,2,3,6]
+output:
+"Tie"

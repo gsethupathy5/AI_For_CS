@@ -1,0 +1,11 @@
+input:
+"abaccdbbd"
+3
+output:
+2
+
+input:
+"adbcda"
+2
+output:
+0

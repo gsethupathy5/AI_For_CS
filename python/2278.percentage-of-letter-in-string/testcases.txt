@@ -1,0 +1,11 @@
+input:
+"foobar"
+"o"
+output:
+33
+
+input:
+"jjjj"
+"k"
+output:
+0

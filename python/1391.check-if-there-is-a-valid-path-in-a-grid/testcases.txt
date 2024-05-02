@@ -1,0 +1,14 @@
+input:
+[[2,4,3],[6,5,2]]
+output:
+true
+
+input:
+[[1,2,1],[1,2,1]]
+output:
+false
+
+input:
+[[1,1,2]]
+output:
+false

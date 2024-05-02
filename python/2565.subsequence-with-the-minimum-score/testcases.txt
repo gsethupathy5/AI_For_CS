@@ -1,0 +1,11 @@
+input:
+"abacaba"
+"bzaa"
+output:
+1
+
+input:
+"cde"
+"xyz"
+output:
+3

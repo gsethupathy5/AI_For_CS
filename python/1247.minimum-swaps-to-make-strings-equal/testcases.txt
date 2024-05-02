@@ -1,0 +1,17 @@
+input:
+"xx"
+"yy"
+output:
+1
+
+input:
+"xy"
+"yx"
+output:
+2
+
+input:
+"xx"
+"xy"
+output:
+-1

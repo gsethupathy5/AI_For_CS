@@ -1,0 +1,17 @@
+input:
+"ilovecodingonleetcode"
+"code"
+output:
+2
+
+input:
+"abcba"
+"abc"
+output:
+1
+
+input:
+"abbaccaddaeea"
+"aaaaa"
+output:
+1

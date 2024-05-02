@@ -1,0 +1,17 @@
+input:
+"annabelle"
+2
+output:
+true
+
+input:
+"leetcode"
+3
+output:
+false
+
+input:
+"true"
+4
+output:
+true

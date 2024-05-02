@@ -1,0 +1,9 @@
+input:
+"DID"
+output:
+5
+
+input:
+"D"
+output:
+1

@@ -1,0 +1,17 @@
+input:
+2
+5
+output:
+10
+
+input:
+5
+3
+output:
+11
+
+input:
+5569
+899
+output:
+724563517

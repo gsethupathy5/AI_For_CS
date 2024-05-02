@@ -1,0 +1,17 @@
+input:
+"abac"
+"cab"
+output:
+"cabac"
+
+input:
+"aaaaaaaa"
+"aaaaaaaa"
+output:
+"aaaaaaaa"
+
+input:
+"bcaaacbbbcbdcaddadcacbdddcdcccdadadcbabaccbccdcdcbcaccacbbdcbabb"
+"dddbbdcbccaccbababaacbcbacdddcdabadcacddbacadabdabcdbaaabaccbdaa"
+output:
+"dddbbdcbccaaaccbababaacbdcbacddadcdacbdddcadccacddbadcadcbabdaccbccdcdcbaaabcaccacbbdcbaabb"

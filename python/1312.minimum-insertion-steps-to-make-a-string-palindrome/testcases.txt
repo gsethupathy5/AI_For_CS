@@ -1,0 +1,14 @@
+input:
+"zzazz"
+output:
+0
+
+input:
+"mbadm"
+output:
+2
+
+input:
+"leetcode"
+output:
+5

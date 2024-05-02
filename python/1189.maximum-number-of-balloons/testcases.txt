@@ -1,0 +1,14 @@
+input:
+"nlaebolko"
+output:
+1
+
+input:
+"loonbalxballpoon"
+output:
+2
+
+input:
+"leetcode"
+output:
+0

@@ -1,0 +1,14 @@
+input:
+4
+output:
+"pppz"
+
+input:
+2
+output:
+"xy"
+
+input:
+7
+output:
+"holasss"
